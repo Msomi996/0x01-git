@@ -4,7 +4,6 @@ Repo-GitHub repository
 
 batch 
 C
-Js
 
 C/c_is_fun.c
 Ka/main.js 
@@ -14,7 +13,7 @@ bash/ALX
 #!/bin/bash
 ALX
 
-Bash/school
+Bash/the school is open 
 #!/bin/bash
-ALX 
+ALX schools is so cool 
 
