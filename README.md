@@ -14,7 +14,7 @@ bash/ALX
 #!/bin/bash
 ALX
 
-Bash/school
+The school is open
 #!/bin/bash
-ALX 
-
+ALX School
+ 
